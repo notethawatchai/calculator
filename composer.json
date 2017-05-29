@@ -1,0 +1,15 @@
+{
+    "name": "notethawatchai/calculator",
+    "authors": [
+        {
+            "name": "thawatchai krutthin",
+            "email": "note57313639@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "notethawatchai\\calculater\\": "src/"
+        }
+    }
+}
